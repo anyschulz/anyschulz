@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anyschulz
-- 👀 I’m interested in image processing and data visualization
+- 👀 I’m interested in image processing and data visualization to support clinical decisionmaking
 - 🌱 I’m currently learning Python methods for managing multicamera arrays
 - 💞️ I’m looking to collaborate on light-field video capture 
 - 📫 iykyk
